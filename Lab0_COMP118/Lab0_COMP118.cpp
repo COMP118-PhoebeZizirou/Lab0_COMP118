@@ -100,6 +100,9 @@ int main()
                 cout << "Price with VAT is: " << priceIncludingVAT(price, vat);
 
                 cout << endl;
+              
+           default:
+              break;
 
         }
 
